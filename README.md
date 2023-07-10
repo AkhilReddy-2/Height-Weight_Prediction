@@ -4,8 +4,6 @@ Using Linear Regression to predict weight when height is given , as well as sugg
 * Skills - Linear Regressor , Supervised Learning , Machine Learning , Data Science 
 * Tools - Google Colab Notebooks , Numpy , Pandas , MatplotLib , SeaBorn , SciKit-Learn 
 
-## Code :
-My code is availaible at : https://github.com/ayush-agarwal-0502/Height-Weight-Regressor/blob/main/height_weight_regressor_project.ipynb (in this repository itself) .
 
 ## Dataset : 
 The data was taken from Kaggle site : https://www.kaggle.com/datasets/mustafaali96/weight-height
